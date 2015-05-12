@@ -229,7 +229,7 @@
 
 
     queue()
-        .defer(d3.json, "../../files/world-110m.json")
+        .defer(d3.json, "../files/world-110m.json")
         .defer(d3.json, "notices.json")
         .await(ready);
 
