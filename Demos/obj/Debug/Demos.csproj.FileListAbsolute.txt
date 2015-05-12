@@ -1,0 +1,6 @@
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\bin\Demos.dll.config
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\bin\Demos.dll
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\bin\Demos.pdb
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\obj\Debug\Demos.csprojResolveAssemblyReference.cache
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\obj\Debug\Demos.dll
+c:\users\geoffrey\Projects\gbosystems.github.io\Demos\obj\Debug\Demos.pdb

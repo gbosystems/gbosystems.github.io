@@ -1,0 +1,36 @@
+﻿<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>CDC Travel Notice Map</title>
+    <meta name="description" content="CDC Travel Notice Map">
+    <meta name="author" content="GBO">
+
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+    <script src="../js/d3/d3.min.js"></script>
+    <script src="../js/topojson/topojson.min.js"></script>
+    <script src="../js/queue/queue.min.js"></script>
+    <script src="../js/planetaryjs.js"></script>
+    <script src="../js/plugins/gbo.loadingOverlay.js"></script>
+    <script src="../js/plugins/gbo.geojson.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="content">
+        <div class="column sidebar">
+            <div class="sidebar-content"></div>
+            <div class="sidebar-footer"></div>
+        </div>
+        <div class="column main">
+            <canvas id="map"></canvas>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>

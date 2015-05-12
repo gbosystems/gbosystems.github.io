@@ -57,12 +57,34 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CdcTravelNoticeMap\css\styles.css" />
+    <Content Include="CdcTravelNoticeMap\index.html" />
+    <Content Include="CdcTravelNoticeMap\js\app.js" />
+    <Content Include="index.html" />
+    <Content Include="js\d3\d3.js" />
+    <Content Include="js\d3\d3.min.js" />
+    <Content Include="js\planetaryjs.js" />
+    <Content Include="js\plugins\gbo.geojson.js" />
+    <Content Include="js\plugins\gbo.goto.js" />
+    <Content Include="js\plugins\gbo.loadingOverlay.js" />
+    <Content Include="js\plugins\gbo.pinger.js" />
+    <Content Include="js\queue\queue.js" />
+    <Content Include="js\queue\queue.min.js" />
+    <Content Include="js\topojson\topojson.js" />
+    <Content Include="js\topojson\topojson.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CdcTravelNoticeMap\notices.json" />
+    <Content Include="files\world-110m.json" />
+    <Content Include="fonts\Eurostile-Bold.ttf" />
+    <Content Include="fonts\Eurostile-Extended-2.ttf" />
+    <Content Include="fonts\Eurostile.ttf" />
+    <Content Include="js\d3\LICENSE" />
+    <Content Include="js\topojson\LICENSE" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

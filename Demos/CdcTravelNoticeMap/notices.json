@@ -1,0 +1,344 @@
+﻿[
+  {
+    "ID": "d04b280b-2f98-4269-a235-5e5bc35dcb92",
+    "Name": " Ebola in Liberia",
+    "Description": "CDC is no longer recommending that US residents avoid nonessential travel to Liberia. However, CDC recommends that US residents practice enhanced precautions when traveling to Liberia.",
+    "Level": "Alert",
+    "Country": "Liberia",
+    "CountryId": 430,
+    "Date": "Sat, 09 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "8efc4b93-6983-44fe-8b0a-538ac095762c",
+    "Name": " Ebola in Sierra Leone",
+    "Description": "CDC urges all US residents to avoid nonessential travel to Sierra Leone and Guinea because of unprecedented outbreaks of Ebola in those countries. CDC recommends that travelers to these countries protect themselves by avoiding contact with the blood and body fluids of people who are sick, because of the possibility they may be sick with Ebola.",
+    "Level": "Warning",
+    "Country": "Sierra Leone",
+    "CountryId": 694,
+    "Date": "Sat, 09 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "8b98524f-dbeb-4db7-a4aa-cb7d6d86e102",
+    "Name": " Ebola in Guinea",
+    "Description": "CDC urges all US residents to avoid nonessential travel to Guinea and Sierra Leone because of unprecedented outbreaks of Ebola in those countries. CDC recommends that travelers to these countries protect themselves by avoiding contact with the blood and body fluids of people who are sick, because of the possibility they may be sick with Ebola.",
+    "Level": "Warning",
+    "Country": "Guinea",
+    "CountryId": 324,
+    "Date": "Sat, 09 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "fd81efe8-1c2f-4e04-ab65-08a1befcede1",
+    "Name": " Hajj and Umrah in Saudi Arabia",
+    "Description": "The annual Hajj pilgrimage to Mecca, Saudi Arabia, is among the largest mass gatherings in the world. If you plan to travel to Saudi Arabia for Hajj or Umrah, follow CDC’s recommendations, such as being up-to-date on your vaccines, to help keep you safe and healthy.  ",
+    "Level": "Alert",
+    "Country": "Saudi Arabia",
+    "CountryId": 682,
+    "Date": "Wed, 06 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "524f5ce9-1dd3-4b87-8869-9f48899994e5",
+    "Name": " Hepatitis A in Mexico (Tulum)",
+    "Description": "As of May 1, 2015, a total of 27 cases of hepatitis A have been reported in US travelers who went to Tulum, Mexico. All of the people traveled between the dates of February 15, 2015, and March 20, 2015. CDC recommends that travelers to Mexico get vaccinated against hepatitis A and follow all food and water precautions. \n",
+    "Level": "Watch",
+    "Country": "Mexico",
+    "CountryId": 484,
+    "Date": "Fri, 01 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "7780b624-17e3-4413-a893-3eed48ba9759",
+    "Name": " Hand, Foot, and Mouth (HFMD) Disease in Japan",
+    "Description": "According to the World Health Organization, as of April 1, Japan has reported more than 13,800 cases of hand, foot, and mouth disease (HFMD) in 2015. Since the middle of March, weekly case numbers of HFMD have increased and are higher than in previous years. CDC recommends that travelers to Japan follow recommendations for hygiene and cleanliness to avoid HFMD.\n",
+    "Level": "Watch",
+    "Country": "Japan",
+    "CountryId": 392,
+    "Date": "Fri, 01 May 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "bff81aa5-5ae6-4fc7-a98a-73a1ababb909",
+    "Name": " Earthquake in Nepal",
+    "Description": "On Saturday, April 25, 2015, a 7.8 magnitude earthquake struck 48 miles (77 km) northwest of Nepal’s capital, Kathmandu. The earthquake also caused avalanches around Mount Everest and many aftershocks. CDC recommends that US residents avoid all nonessential travel to Nepal. ",
+    "Level": "Warning",
+    "Country": "Nepal",
+    "CountryId": 524,
+    "Date": "Wed, 29 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "7a80c984-effc-43a3-a2fc-b740393c6d32",
+    "Name": " Ross River virus disease in Australia",
+    "Description": "According to the Department of Health in Australia, as of April 17, 2015, a total of 6,054 Ross River virus disease (RRVD) cases have been reported. CDC recommends that travelers to Australia protect themselves from RRVD by preventing mosquito bites.",
+    "Level": "Watch",
+    "Country": "Australia",
+    "CountryId": 36,
+    "Date": "Fri, 24 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "8fe530f3-cee2-4efc-84c9-3280aa4ba6ac",
+    "Name": " Dengue in Malaysia",
+    "Description": "According to the World Health Organization, as of March 21, 2015, more than 30,800 cases of dengue fever, including 108 deaths, have been reported in Malaysia in 2015. Travelers to Malaysia should protect themselves against mosquito bites to avoid getting dengue.",
+    "Level": "Watch",
+    "Country": "Malaysia",
+    "CountryId": 458,
+    "Date": "Fri, 24 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "3276da0f-9dd2-4984-8f3d-663e63019fd1",
+    "Name": " Measles in Germany",
+    "Description": "As of March 30, 2015, the Berlin Senate Department of Health and Social Affairs has reported more than 950 cases of measles. CDC recommends that travelers to Germany protect themselves by making sure they are vaccinated against measles. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.",
+    "Level": "Watch",
+    "Country": "Germany",
+    "CountryId": 276,
+    "Date": "Wed, 22 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "320d8759-1999-4c2c-b0c6-bb31c0184a68",
+    "Name": " 2015 World Expo in Milan, Italy",
+    "Description": "The 2015 World Exposition will be held in Milan, Italy, from May 1, 2015, through October 31, 2015. Take some simple precautions to help you stay safe and healthy.",
+    "Level": "Watch",
+    "Country": "Italy",
+    "CountryId": 380,
+    "Date": "Mon, 20 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "bcf9cd80-5fce-4af4-b5ad-037b22980293",
+    "Name": " Typhoid in Uganda",
+    "Description": "More than 12,000 suspected cases of typhoid and 2 deaths have been reported in Uganda from January 1 through April 14, 2015. Cases have been reported in Kampala, Wakiso, and Mukono districts. CDC recommends that travelers to Uganda get typhoid vaccine before traveling and follow water and food precautions during their trip to help prevent typhoid. \n",
+    "Level": "Watch",
+    "Country": "Uganda",
+    "CountryId": 800,
+    "Date": "Mon, 20 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "15a05452-cb16-401b-bdd6-aadc7482e62c",
+    "Name": " Dengue in Brazil",
+    "Description": "According to Pan American Health Organization (PAHO), as of March 27, 2015, 224,101 cases of dengue fever, including 52 deaths, have been reported in Brazil in 2015. Travelers to Brazil should protect themselves against mosquito bites to avoid getting dengue.",
+    "Level": "Watch",
+    "Country": "Brazil",
+    "CountryId": 76,
+    "Date": "Mon, 20 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "c29e3c36-6722-4c57-bba2-cf33766787d6",
+    "Name": " Measles in Kyrgyzstan",
+    "Description": "Kyrgyzstan is experiencing an ongoing measles outbreak. CDC recommends that travelers to Kyrgyzstan protect themselves by making sure they are vaccinated against measles, particularly infants and children. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.",
+    "Level": "Watch",
+    "Country": "Kyrgyzstan",
+    "CountryId": 417,
+    "Date": "Wed, 15 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "ea5aed69-3c06-4410-bb0f-01e70c321b69",
+    "Name": " Hand, Foot, and Mouth (HFMD) Disease in Singapore",
+    "Description": "According to the World Health Organization, Singapore has reported more than 4,000 cases of hand, foot, and mouth disease (HFMD) during January and February 2015. CDC recommends that travelers to Singapore follow recommendations for hygiene and cleanliness to avoid HFMD.",
+    "Level": "Watch",
+    "Country": "Singapore",
+    "CountryId": 702,
+    "Date": "Mon, 13 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "ece81bd2-1ef0-4390-8ba8-b46805951969",
+    "Name": " H5N1 Bird Flu in Egypt",
+    "Description": "CDC recommends that travelers to Egypt protect themselves from H5N1 by avoiding contact with wild birds, live or uncooked poultry, and body fluids from birds and poultry. ",
+    "Level": "Watch",
+    "Country": "Egypt",
+    "CountryId": 818,
+    "Date": "Fri, 10 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "118c7c9e-2066-423a-b084-e639f311fb7c",
+    "Name": " Measles in Bosnia and Herzegovina",
+    "Description": "As of February 2015, the Federal Institute of Public Health in the Federation of Bosnia and Herzegovina has reported more than 3,800 cases since January 2014. Most of the cases have been in 3 Central Bosnia Canton municipalities: Bugojno, Fojnica, and Travnik. CDC recommends that travelers to Bosnia and Herzegovina protect themselves by making sure they are vaccinated against measles. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.",
+    "Level": "Watch",
+    "Country": "Bosnia and Herzegovina",
+    "CountryId": 70,
+    "Date": "Wed, 01 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "06ff708e-a5ec-4559-9ac9-1c9c1dd66ea8",
+    "Name": " Measles in Ethiopia",
+    "Description": "According to the World Health Organization, Ethiopia is experiencing an ongoing measles outbreak. CDC recommends that travelers to Ethiopia protect themselves by making sure they are vaccinated against measles. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.",
+    "Level": "Watch",
+    "Country": "Ethiopia",
+    "CountryId": 231,
+    "Date": "Wed, 01 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "1742e0d8-e4b2-4c50-9c00-c5b13e451eef",
+    "Name": " Measles in Angola",
+    "Description": "According to the World Health Organization, Angola is experiencing an ongoing measles outbreak. CDC recommends that travelers to Angola protect themselves by making sure they are vaccinated against measles. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.\n",
+    "Level": "Watch",
+    "Country": "Angola",
+    "CountryId": 24,
+    "Date": "Wed, 01 Apr 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "49ab40fa-6892-4c3d-a5e0-4eb25a845ff0",
+    "Name": " Malaria in Brazil",
+    "Description": "The Centers for Disease Control and Prevention (CDC) received information that 23 locally transmitted malaria (Plasmodium vivax) cases have been reported in the state of Rio de Janerio from January 17 through February 25, 2015. Also, from March 3 through March 13, 2015, 5 locally transmitted (Plasmodium vivax) cases have been reported in the state of Goias. Local transmission means that mosquitoes have been infected with malaria and are spreading it to people. CDC recommends that travelers to the central, mountainous, forested areas of Rio de Janiero State and Goias State in Brazil protect the",
+    "Level": "Watch",
+    "Country": "Brazil",
+    "CountryId": 76,
+    "Date": "Fri, 27 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "0b11c340-a3d2-4471-9a80-86dd2c71e5aa",
+    "Name": " Tropical Cyclone Pam in Vanuatu",
+    "Description": "Tropical Cyclone Pam hit Vanuatu on March 14, 2015. Vanuatu is an island nation in the South Pacific consisting of about 80 small islands. Significant infrastructure damage has caused problems with sanitation, food supply, electricity, transportation, shelter, communications, security, and medical care.\nCDC recommends that travelers to Vanuatu take precautions to protect their health. ",
+    "Level": "Alert",
+    "Country": "Vanuatu",
+    "CountryId": 548,
+    "Date": "Thu, 26 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "a55e893f-f26e-4ff5-a4e8-109f6faa3dc3",
+    "Name": " Avian Flu (H7N9) in China",
+    "Description": "Two Canadian travelers were recently diagnosed with the first cases of avian influenza A (H7N9) in North America. The travelers had recently visited China, where cases of H7N9 flu have been reported since 2013. CDC advises people traveling to China to avoid contact with poultry (including poultry markets and farms), birds, and their droppings.",
+    "Level": "Watch",
+    "Country": "China",
+    "CountryId": 156,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "336b5620-77ff-4497-9afd-f5c8aeefd1cd",
+    "Name": " Cholera in Mexico",
+    "Description": "According to the Pan American Health Organization's Epidemiological Update on Cholera, as of November 10, 2014, there were 14 confirmed cases, 13 in Hidalgo State and 1 in Querétaro.  No new cholera cases have been reported.",
+    "Level": "Watch",
+    "Country": "Mexico",
+    "CountryId": 484,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "107ec699-fb67-4754-9bfb-f286c0c06467",
+    "Name": " Chikungunya in Mexico ",
+    "Description": "Beginning in October 2014, locally transmitted cases of chikungunya have been reported in Mexico. Local transmission means that mosquitoes in Mexico have been infected with chikungunya and are spreading it to people. CDC recommends that travelers to Mexico protect themselves from chikungunya by preventing mosquito bites.",
+    "Level": "Watch",
+    "Country": "Mexico",
+    "CountryId": 484,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "81b546b9-e756-44ba-968c-7ec1cd2a685b",
+    "Name": " Cholera in Cuba",
+    "Description": "According to the Pan American Health Organization (PAHO), Cuban health authorities have reported more than 700 cases of cholera, including 3 deaths, since July 2012. The outbreak is ongoing, and cases have been reported from the provinces of Artemisa, Camaguey, Granma, Guantanamo, Havana, and Santiago de Cuba. Several cases were reported in travelers returning from Cuba, including travelers from the United States.",
+    "Level": "Watch",
+    "Country": "Cuba",
+    "CountryId": 192,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "647540a6-ec4d-4897-b536-9cb38bc99ec3",
+    "Name": " Cholera in the Dominican Republic",
+    "Description": "An outbreak of cholera has been ongoing in the Dominican Republic since November 2010. Cases continue to be reported but in smaller numbers than earlier in the outbreak.",
+    "Level": "Watch",
+    "Country": "Dominica",
+    "CountryId": 212,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "9aee08bd-8e15-401c-9c1e-3908a707621f",
+    "Name": " Cholera in Haiti",
+    "Description": "An outbreak of cholera has been ongoing in Haiti since October 2010. Cases continue to be reported but in smaller numbers than earlier in the outbreak. Cases have been reported in all 10 departments of Haiti.",
+    "Level": "Watch",
+    "Country": "Haiti",
+    "CountryId": 332,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "f8dd91d4-b637-4606-b6fe-6d2b219ee5be",
+    "Name": " Measles in the Philippines",
+    "Description": "According to the World Health Organization, as of February 20, 2015, there were 58,010 suspected cases of measles, including 21,420 confirmed cases and 110 deaths in the Philippines during 2014. So far in 2015, there are 201 suspected cases of measles, including 33 confirmed cases and no deaths. CDC recommends that travelers to the Philippines protect themselves by making sure they are vaccinated against measles. Clinicians should keep measles in mind when treating patients with fever and rash, especially if the patient has recently traveled internationally.",
+    "Level": "Watch",
+    "Country": "Philippines",
+    "CountryId": 608,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "dea8b8d0-90e6-4b53-923d-07d09549934d",
+    "Name": " Measles in Vietnam",
+    "Description": "According to the World Health Organization, as of February 20, 2015, there were 18,597 suspected measles cases, including 6,498 confirmed cases, and no deaths in Vietnam during 2014. So far in 2015, there are 185 suspected cases of measles, including 8 confirmed cases and no deaths. CDC recommends that travelers to Vietnam protect themselves by making sure they are vaccinated against measles, particularly infants 6–11 months of age (1 dose of measles vaccine) and children 12 months of age or older (2 doses of measles vaccine). Clinicians should keep measles in mind when treating patients with ",
+    "Level": "Watch",
+    "Country": "Vietnam",
+    "CountryId": 704,
+    "Date": "Wed, 25 Mar 2015 04:00:00 GMT"
+  },
+  {
+    "ID": "f73a070f-341e-4c7e-864b-22660380a7ea",
+    "Name": " Chikungunya in the Caribbean",
+    "Description": "In December 2013, the World Health Organization (WHO) reported cases of chikungunya in Saint Martin. Additional cases were reported in other islands in the Caribbean. This is the first time that local transmission of chikungunya has been reported in the Americas. CDC recommends that travelers to the Caribbean protect themselves from mosquito bites.",
+    "Level": "Watch",
+    "Country": "Saint Martin",
+    "CountryId": 663,
+    "Date": "Fri, 06 Mar 2015 05:00:00 GMT"
+  },
+  {
+    "ID": "31d296b1-4482-4be2-8e83-6207215e3398",
+    "Name": " Chikungunya in South America",
+    "Description": "In December 2013, French Guiana reported locally transmitted cases for the first time in South America. Local transmission means that mosquitoes in the area have been infected with chikungunya and are spreading it to people. CDC recommends that travelers to the South America protect themselves from mosquito bites. ",
+    "Level": "Watch",
+    "Country": "French Guiana",
+    "CountryId": 254,
+    "Date": "Wed, 25 Feb 2015 05:00:00 GMT"
+  },
+  {
+    "ID": "bfe696f2-f5ae-421f-9427-6c8d6c343461",
+    "Name": " Cholera in Ghana",
+    "Description": "More than 27,900 cases and 217 deaths from cholera have been reported in Ghana as of November 29, 2014. Many cases have been in the Greater Accra region (about 70%), including in the districts of Accra Metro and La-Dadekotopon. As of November 29, 2014, the number of new cholera cases has been declining. CDC recommends that travelers to Ghana protect themselves from cholera by following food and water precautions.\n",
+    "Level": "Watch",
+    "Country": "Ghana",
+    "CountryId": 288,
+    "Date": "Wed, 18 Feb 2015 05:00:00 GMT"
+  },
+  {
+    "ID": "b6ce1592-271b-417d-bc17-e5593e1af530",
+    "Name": " Dengue in China (Guangdong Province)",
+    "Description": "The World Health Organization reported more than 47,300 dengue cases in China in 2014. This is mostly due to the dengue outbreak in Guangdong at the end of 2014. Travelers to China, particularly those going to Guangdong Province, should protect themselves against mosquito bites.",
+    "Level": "Watch",
+    "Country": "China",
+    "CountryId": 156,
+    "Date": "Wed, 18 Feb 2015 05:00:00 GMT"
+  },
+  {
+    "ID": "f0bd73c7-bb9d-4ba8-a17d-846952d101fa",
+    "Name": " Chikungunya in Central America",
+    "Description": "In June 2014, El Salvador reported locally transmitted cases for the first time in Central America. Local transmission means that mosquitoes in the area have been infected with chikungunya and are spreading it to people. Local transmission of chikungunya is now being reported in other countries in Central America. CDC recommends that travelers to the Central America protect themselves from mosquito bites. ",
+    "Level": "Watch",
+    "Country": "El Salvador",
+    "CountryId": 222,
+    "Date": "Wed, 03 Dec 2014 05:00:00 GMT"
+  },
+  {
+    "ID": "e5e36dad-6ec4-465a-80c0-96a1ed2da3de",
+    "Name": " Polio in Somalia",
+    "Description": "According to the Global Polio Eradication Initiative, as of August 11, 2014, 5 cases have been reported in Somalia for 2014. In 2013, 194 cases of polio were reported from Somalia. These are the first wild poliovirus cases reported in Somalia since 2007. CDC recommends that all travelers to Somalia be fully vaccinated against polio. In addition, adults should receive a one-time booster dose of polio vaccine.",
+    "Level": "Alert",
+    "Country": "Somalia",
+    "CountryId": 706,
+    "Date": "Thu, 09 Oct 2014 04:00:00 GMT"
+  },
+  {
+    "ID": "1dfc0dba-91ca-46f2-beb6-6bec5ccca5ff",
+    "Name": " Polio in Cameroon ",
+    "Description": "As of August 11, 2014, 5 cases of polio have been reported in Cameroon for 2014. There were also 4 cases reported in 2013. This outbreak of polio is the first reported in Cameroon since 2009.",
+    "Level": "Alert",
+    "Country": "Cameroon",
+    "CountryId": 120,
+    "Date": "Mon, 11 Aug 2014 04:00:00 GMT"
+  },
+  {
+    "ID": "cfbf865e-9d94-419c-a049-a6154348fdfd",
+    "Name": " Polio in Iraq",
+    "Description": "According to the Global Polio Eradication Initiative, as of July 15, 2014, 2 cases of polio have been reported in a near Baghdad. Before 2014, no cases had been reported from Iraq since 2000.",
+    "Level": "Alert",
+    "Country": "Iraq",
+    "CountryId": 368,
+    "Date": "Fri, 25 Jul 2014 04:00:00 GMT"
+  },
+  {
+    "ID": "702f8a0a-b1b4-454d-a9ab-4faa35087f33",
+    "Name": " Polio in Equatorial Guinea",
+    "Description": "As of July 15, 2014, 5 cases of polio have been reported from Equatorial Guinea. Before 2014, no cases had been reported in Equatorial Guinea since 1999. CDC recommends that all travelers to Equatorial Guinea be fully vaccinated against polio. In addition, adults should receive a one-time booster dose of polio vaccine.",
+    "Level": "Alert",
+    "Country": "Equatorial Guinea",
+    "CountryId": 226,
+    "Date": "Fri, 25 Jul 2014 04:00:00 GMT"
+  }
+]

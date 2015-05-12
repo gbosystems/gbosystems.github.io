@@ -1,0 +1,83 @@
+﻿@font-face {
+	font-family: 'Eurostile LT W01 Extended_2';
+	src: url('../../fonts/Eurostile-Extended-2.ttf');
+}
+
+@font-face {
+	font-family: 'Eurostile Bold';
+	src: url('../../fonts/Eurostile-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Eurostile';
+	src: url('../../fonts/Eurostile.ttf');
+}
+
+html,body {
+	height: 100vh;
+	margin: 0;
+	background-color: #b3b3b3;
+	font-family: 'Eurostile';
+}
+
+.content {
+	height: 100vh;
+	width: 100%;
+	border-left: 15px #b3b3b3 solid;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.column {
+	height: 100vh;
+	float: left;
+}
+
+.sidebar {
+	width: 30%;
+}
+
+.sidebar-content {
+	height: 90%;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+}
+
+.sidebar-content h3 {
+	font-size: 2.5em;
+	font-family: 'Eurostile Bold';
+}
+
+.sidebar-content p {
+	font-size: 1.9em;
+	line-height: 1.2em;
+	overflow: hidden;
+}
+
+h4 {
+	background-color: #838383;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.sidebar-content div {
+	font-size: 1.9em;
+}
+
+.sidebar-footer {
+	height: 10%;
+	padding: 0 0 0 20px;
+	font-size: 1.1em;
+	font-family: 'Eurostile Bold';
+	color: #006eff;
+}
+
+.sidebar-footer div:first-child {
+	padding-top: 10px;
+}
+
+.main {
+	width: 70%;
+}
