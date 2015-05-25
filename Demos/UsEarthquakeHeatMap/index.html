@@ -1,0 +1,39 @@
+﻿<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>US Earthquake HeatMap</title>
+    <meta name="description" content="US Earthquake HeatMap">
+    <meta name="author" content="GBO">
+
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+    <script src="../js/d3/d3.min.js"></script>
+    <script src="../js/hexbin/d3.hexbin.js"></script>
+    <script src="../js/topojson/topojson.min.js"></script>
+    <script src="../js/queue/queue.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="content">
+        
+        <div class="column main">
+            <div class="title"></div>
+            <div class="main-content"></div>
+        </div>
+        <div class="column sidebar">
+            <div class="sidebar-header"><h3>Earthquake List</h3></div>
+            <div class="sidebar-control" id="control-top"></div>
+            <div class="sidebar-content"></div>
+            <div class="sidebar-control" id="control-bottom"></div>
+        </div>
+
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>

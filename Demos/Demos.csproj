@@ -63,6 +63,7 @@
     <Content Include="index.html" />
     <Content Include="js\d3\d3.js" />
     <Content Include="js\d3\d3.min.js" />
+    <Content Include="js\hexbin\d3.hexbin.js" />
     <Content Include="js\planetaryjs.js" />
     <Content Include="js\plugins\gbo.geojson.js" />
     <Content Include="js\plugins\gbo.goto.js" />
@@ -72,6 +73,12 @@
     <Content Include="js\queue\queue.min.js" />
     <Content Include="js\topojson\topojson.js" />
     <Content Include="js\topojson\topojson.min.js" />
+    <Content Include="UsEarthquakeHeatMap\css\styles.css" />
+    <Content Include="UsEarthquakeHeatMap\images\chevron-down.svg" />
+    <Content Include="UsEarthquakeHeatMap\images\chevron-up.svg" />
+    <Content Include="UsEarthquakeHeatMap\images\arrow-up.svg" />
+    <Content Include="UsEarthquakeHeatMap\index.html" />
+    <Content Include="UsEarthquakeHeatMap\js\app.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -85,6 +92,9 @@
     <Content Include="fonts\Eurostile.ttf" />
     <Content Include="js\d3\LICENSE" />
     <Content Include="js\topojson\LICENSE" />
+    <Content Include="files\us-states.json" />
+    <Content Include="files\us-country.json" />
+    <Content Include="UsEarthquakeHeatMap\earthquakes.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
