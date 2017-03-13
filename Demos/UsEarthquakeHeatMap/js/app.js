@@ -221,7 +221,7 @@
     queue()
         .defer(d3.json, "../files/us-states.json")
         .defer(d3.json, "../files/us-country.json")
-        .defer(d3.json, "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson")
+        .defer(d3.json, "./data/all_month.json")
         //.defer(d3.json, "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson")
         .await(ready);
 
